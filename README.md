@@ -1,5 +1,5 @@
 # Hi there 👋
-- 🔭 I’m currently working for netcompany on the National Carrer's Service client
+- 🔭 I’m currently working for [netcompany](https://www.netcompany.com/) on the [National Careers Service](https://nationalcareers.service.gov.uk/) client running Data collection and processing
 - 🌱 I’m currently learning about logging and trying to develop better ways to give developers the information they didn't know they needed.
 - 👯 I’m looking to collaborate on anything opensourced that is productivity-focused
 - 🤔 Anything you can suggest I learn that you think would help, message me
