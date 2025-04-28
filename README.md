@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning about logging and trying to develop better ways to give developers the information they didn't know they needed.
 - 👯 I’m looking to collaborate on anything opensourced that is productivity-focused
 - 🤔 Anything you can suggest I learn that you think would help, message me
-- 📫 How to reach me: geneticallymodifiedalex@gmail.com [Public Key](https://drive.google.com/file/d/1h4dwdHLwrGMWgmU5NKPxK4po5x-qJRJW/view?usp=sharing)
 <!--
 **GeneticallyModifiedAlex/GeneticallyModifiedAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
